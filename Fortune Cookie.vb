@@ -1,4 +1,8 @@
-﻿Module Module1
+﻿'Spencer Gilchrist
+'RCET0265
+'Fortune Cookie
+'2-4-21
+Module Module1
 
     Sub Main()
 LineFirst:
